@@ -12,7 +12,7 @@
 
 # 🗺️ Roadmap
 
-| Technology | Goal | Status |
+| Technology | Description | Status |
 | :--- | :--- | :--- |
 | **Rust** | Backend language without the possibility of memory leaks | Starting |
 | **Swift** | Language used to create programms for Apple devices | Not started |
