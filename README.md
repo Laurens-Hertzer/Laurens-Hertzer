@@ -6,12 +6,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Laurens-Hertzer&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Laurens-Hertzer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=Laurens-Hertzer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
 # 🗺️ Roadmap
 
 | Technology | Goal | Status |
