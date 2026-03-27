@@ -13,10 +13,10 @@
 # 🗺️ Roadmap
 
 | Technology | Description | Project | Status |
-| :--- | :--- | :--- |
-| **Rust** | Backend language without the possibility of memory leaks | Learning Rust and create a cli Applikation, later a backend service |Starting |
-| **Swift** | Language used to create programms for Apple devices |Learn the language and later (re-)write a game of mine into Swift | Not started |
-| **OpenGL** | Graphics API, used to render graphics |Learn the API and simply create a nice rendered object, possibly create a live background "picture"| Not started |
-| **Phaser** |Javascript Game Framework |Learn the Framework, make or rewrite a game into it, implement the framework into my Portfolio website| Not started|
+| :--- | :--- | :--- | :--- |
+| **Rust** | Backend language without the possibility of memory leaks | Learning Rust and create a cli Applikation, later a backend service | Starting |
+| **Swift** | Language used to create programms for Apple devices | Learn the language and later (re-)write a game of mine into Swift | Not started |
+| **OpenGL** | Graphics API, used to render graphics | Learn the API and simply create a nice rendered object, possibly create a live background "picture" | Not started |
+| **Phaser** | Javascript Game Framework | Learn the Framework, make or rewrite a game into it, implement the framework into my Portfolio website | Not started|
 
 ---
