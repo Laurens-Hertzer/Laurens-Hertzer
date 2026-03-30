@@ -18,8 +18,8 @@
 | **Swift** | Language used to create programms for Apple devices | Learn the language and later (re-)write a game of mine into Swift | None | Not started |
 | **OpenGL** | Graphics API, used to render graphics | Learn the API and simply create a nice rendered object, possibly create a live background "picture" | None | Not started |
 | **Phaser** | Javascript Game Framework | Learn the Framework, make or rewrite a game into it, implement the framework into my Portfolio website | PhaserIO official documentation | Not started|
-| **MacBook *Ricing***| "Ricing is a term that has been used in the computer and technology world to describe the act of customizing the appearance of Linux" | In these projects I simply make my Laptop look and work nicer, as well as optimizing my workflow | None | Semi, doing when time, parallel with MacBook Ricing |
-| **Windows Laptop *Ricing***| "Ricing is a term that has been used in the computer and technology world to describe the act of customizing the appearance of Linux" | In these projects I simply make my Laptop look and work nicer, as well as optimizing my workflow | None | Semi, doing when time, parallel with MacBook Ricing" |
+| **MacBook *Ricing***| "Ricing is a term that has been used in the computer and technology world to describe the act of customizing the appearance of Linux" | In these projects I simply make my Laptop look and work nicer, as well as optimizing my workflow | None | Semi, doing when time, parallel with Windows Laptop Ricing |
+| **Windows Laptop *Ricing***| "Ricing is a term that has been used in the computer and technology world to describe the act of customizing the appearance of Linux" | In these projects I simply make my Laptop look and work nicer, as well as optimizing my workflow | None | Semi, doing when time, parallel with MacBook Ricing |
 | **Terminal Website**| A Terminal is a textbased userinterface for the interaction with computers. | A website you can connect to with the terminal via ssh and view | https://www.instagram.com/morilliu/ | Not started |
 
 ---
