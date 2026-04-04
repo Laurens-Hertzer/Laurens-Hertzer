@@ -14,14 +14,15 @@
 
 | Technology | Description | Project | Sources/Mentions | Status |
 | :--- | :--- | :--- | :--- | :--- |
+| **React + Vite** | React is a JavaScript library used for building user interfaces by breaking them down into reusable, independent components that update when data changes <br /> <br />Vite is a modern build tool and development server designed to provide an incredibly fast development experience for web projects | Portfolio-Website | None | 🟢 Working on |
 | **Rust** | Backend language without the possibility of memory leaks | Learning Rust and create a cli Applikation, later a backend service | https://learn.letsgetrusty.com/ | 🟢 Starting |
+| **MacBook *Ricing***| "Ricing is a term that has been used in the computer and technology world to describe the act of customizing the appearance of Linux" | In these projects I simply make my Laptop look and work nicer, as well as optimizing my workflow | None | 🟡 Semi, doing when time, parallel with Windows Laptop Ricing |
+| **Windows Laptop *Ricing***| "Ricing is a term that has been used in the computer and technology world to describe the act of customizing the appearance of Linux" | In these projects I simply make my Laptop look and work nicer, as well as optimizing my workflow | None | 🟡 Semi, doing when time, parallel with MacBook Ricing |
 | **Swift** | Language used to create programms for Apple devices | Learn the language and later (re-)write a game of mine into Swift | None | 🔴 Not started |
 | **OpenGL** | Graphics API, used to render graphics | Learn the API and simply create a nice rendered object, possibly create a live background "picture" | None | 🔴 Not started |
 | **Phaser** | Javascript Game Framework | Learn the Framework, make or rewrite a game into it, implement the framework into my Portfolio website | PhaserIO official documentation | 🔴 Not started|
-| **MacBook *Ricing***| "Ricing is a term that has been used in the computer and technology world to describe the act of customizing the appearance of Linux" | In these projects I simply make my Laptop look and work nicer, as well as optimizing my workflow | None | 🟡 Semi, doing when time, parallel with Windows Laptop Ricing |
-| **Windows Laptop *Ricing***| "Ricing is a term that has been used in the computer and technology world to describe the act of customizing the appearance of Linux" | In these projects I simply make my Laptop look and work nicer, as well as optimizing my workflow | None | 🟡 Semi, doing when time, parallel with MacBook Ricing |
-| **Terminal Website**| A Terminal is a textbased userinterface for the interaction with computers. | A website you can connect to with the terminal via ssh and view | https://www.instagram.com/morilliu/ | 🔴 Not started |
-| **Pretext** | A high-performance text rendering engine designed specifically to push the boundaries of text rendering in the browser.| I want to implement it into my portfolio website, or just simply create something visually appealing | None | 🔴 Not started |
+| **Terminal Website**| A Terminal is a textbased userinterface for the interaction with computers | A website you can connect to with the terminal via ssh and view | https://www.instagram.com/morilliu/ | 🔴 Not started |
+| **Pretext** | A high-performance text rendering engine designed specifically to push the boundaries of text rendering in the browser| I want to implement it into my portfolio website, or just simply create something visually appealing | None | 🔴 Not started |
 | **Not defined** | --- | A tool, in which you can paste your prompt/data in, where it will be cleansed for prompting (no API-Keys, Data, Names, etc.) | None | 🔴 Not started |
 
 ---
