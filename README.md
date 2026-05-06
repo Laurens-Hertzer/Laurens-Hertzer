@@ -12,17 +12,62 @@
 
 # 🗺️ Roadmap
 
+## 🖥️ Frontend
+
 | Technology | Description | Project | Sources/Mentions | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **React + Vite** | React is a JavaScript library used for building user interfaces by breaking them down into reusable, independent components that update when data changes <br /> <br />Vite is a modern build tool and development server designed to provide an incredibly fast development experience for web projects | Portfolio-Website | None | 🟢 Working on |
+| **React + Vite** | React is a JavaScript library for building UIs out of reusable components that re-render on data changes. Vite is a build tool and dev server that starts and reloads much faster than older alternatives. | Portfolio-Website | None | 🟢 Working on |
+| **Phaser** | Javascript Game Framework | Learn the framework, rewrite a game in it, and integrate it into my portfolio website | PhaserIO official documentation | 🔴 Not started |
+| **Pretext** | A text rendering engine for the browser with finer typographic control than CSS alone allows | Implement it in my portfolio website, or just make something that looks interesting | None | 🔴 Not started |
+
+## ⚙️ Backend
+
+| Technology | Description | Project | Sources/Mentions | Status |
+| :--- | :--- | :--- | :--- | :--- |
 | **Rust** | Backend language without the possibility of memory leaks | Learning Rust and create a cli Applikation, later a backend service | https://learn.letsgetrusty.com/ | 🟢 Starting |
-| **MacBook *Ricing***| "Ricing is a term that has been used in the computer and technology world to describe the act of customizing the appearance of Linux" | In these projects I simply make my Laptop look and work nicer, as well as optimizing my workflow | https://github.com/rubylaser/dotfiles | 🟡 Semi, doing when time, parallel with Windows Laptop Ricing |
-| **Windows Laptop *Ricing***| "Ricing is a term that has been used in the computer and technology world to describe the act of customizing the appearance of Linux" | In these projects I simply make my Laptop look and work nicer, as well as optimizing my workflow | None | 🟡 Semi, doing when time, parallel with MacBook Ricing |
-| **Swift** | Language used to create programms for Apple devices | Learn the language and later (re-)write a game of mine into Swift | None | 🔴 Not started |
+| Not yet defined | --- | A tool, in which you can paste your prompt/data in, where it will be cleansed for prompting (no API-Keys, Data, Names, etc.) | None | 🔴 Not started |
+
+## 🌐 Server / Self-Hosted
+
+| Technology | Description | Project | Sources/Mentions | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Terminal Website** | A website you access via SSH in the terminal instead of a browser | Connect to it with the terminal and browse content there | https://www.instagram.com/morilliu/ | 🔴 Not started |
+| **Pi-hole** | DNS-based ad blocker that runs network-wide | Block ads and tracking for the whole home network on the server | None | 🔴 Not started |
+| **Vaultwarden** | A Bitwarden-compatible password manager you host yourself | Replace Google's password manager with something self-hosted on the server | None | 🔴 Not started |
+| **Jellyfin** | Open-source media server for streaming movies and music | Run it on the server for streaming at home | None | 🔴 Not started |
+| **Chat-App** | Simple self-hosted chat application | Build and host a basic chat app for colleagues on the home server | None | 🔴 Not started |
+| **Stromverbrauch-Monitoring** | Power consumption monitoring system | Monitor power usage of the server | None | 🔴 Not started |
+| **Domain (Infomaniak)** | Register a domain and set up subdomain structure | Register a domain at Infomaniak with a subdomain structure like `portfolio.domain.xy`, `chat.domain.xy` etc. | None | 🔴 Not started |
+
+## 🗂️ Projects
+
+| Technology | Description | Project | Sources/Mentions | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Go (Game)** | Go is an ancient two-player strategy board game from China, played on a grid with black and white stones | Online Go: a full-stack game website (Node.js + Express backend, HTML/CSS/JS frontend), hosted on the server alongside the portfolio | None | 🟡 In progress |
+
+## 🤖 AI
+
+| Technology | Description | Project | Sources/Mentions | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Claude (Design & Skills)** | Anthropic's AI assistant. Using it for design feedback, picking up new skills, and writing small tools. | Get UI/UX feedback, learn new tech faster, and build AI-powered helpers into personal projects | None | 🟢 Working on |
+
+## 🎨 Graphics
+
+| Technology | Description | Project | Sources/Mentions | Status |
+| :--- | :--- | :--- | :--- | :--- |
 | **OpenGL** | Graphics API, used to render graphics | Learn the API and simply create a nice rendered object, possibly create a live background "picture" | None | 🔴 Not started |
-| **Phaser** | Javascript Game Framework | Learn the Framework, make or rewrite a game into it, implement the framework into my Portfolio website | PhaserIO official documentation | 🔴 Not started|
-| **Terminal Website**| A Terminal is a textbased userinterface for the interaction with computers | A website you can connect to with the terminal via ssh and view | https://www.instagram.com/morilliu/ | 🔴 Not started |
-| **Pretext** | A high-performance text rendering engine designed specifically to push the boundaries of text rendering in the browser| I want to implement it into my portfolio website, or just simply create something visually appealing | None | 🔴 Not started |
-| **Not defined** | --- | A tool, in which you can paste your prompt/data in, where it will be cleansed for prompting (no API-Keys, Data, Names, etc.) | None | 🔴 Not started |
+
+## 📱 Mobile
+
+| Technology | Description | Project | Sources/Mentions | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Swift** | Apple's language for iOS, macOS, and other Apple platforms | Learn the language, then rewrite one of my games in it | None | 🔴 Not started |
+
+## 🛠️ System / Customization
+
+| Technology | Description | Project | Sources/Mentions | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **MacBook *Ricing*** | "Ricing is a term that has been used in the computer and technology world to describe the act of customizing the appearance of Linux" | Make the laptop look better and cut friction in the daily workflow | https://github.com/rubylaser/dotfiles | 🟡 Semi, doing when time, parallel with Windows Laptop Ricing |
+| **Windows Laptop *Ricing*** | "Ricing is a term that has been used in the computer and technology world to describe the act of customizing the appearance of Linux" | Make the laptop look better and cut friction in the daily workflow | None | 🟡 Semi, doing when time, parallel with MacBook Ricing |
 
 ---
