@@ -1,10 +1,10 @@
 # Herzlich Willkommen auf meinem Github
 
-**Ich heisse Laurens und ich mag die Informatik. Ich gehe in die IMS und erlerne dort den Beruf des Informatikers EFZ mit zusätzlich der Berufsmaturität Wirtschaft und Recht. Ich lebe in der Nähe von Zürich. Meine Interessen im Bereich der Informatik sind stark verstreut, ich finde Websiten, wie auch Low-Level Programmiersprachen, Container und hardwarenähere Technologien sehr cool. Da ich erst seit ca. 2 Jahren mit der Informatik begonnen habe, bin ich noch auf dem Weg ein "Master" in einem Bereich zu werden.**
+**Ich heisse Laurens und ich mag die Informatik. Ich gehe in die IMS und erlerne dort den Beruf des Informatikers EFZ mit zusätzlich der Berufsmaturität Wirtschaft und Recht. Ich lebe in der Nähe von Zürich. Meine Interessen im Bereich der Informatik sind stark verstreut, ich finde Websiten, wie auch Low-Level Programmiersprachen, Container und hardwarenähere Technologien sehr cool. Da ich erst seit ca. 2 Jahren mit der Informatikausbildung begonnen habe, bin ich noch auf dem Weg ein "Master" in einem Bereich zu werden.**
 
 # Meine Kenntnisse und womit ich schon gearbeitet habe 
 
-### Sprachen & Markup
+### Programmierprachen & Markup
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,12 +41,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=vsc&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 
-### Gesprochene Sprachen
-![Deutsch](https://img.shields.io/badge/Deutsch-Muttersprache-4c1?style=for-the-badge)
-
-![Englisch](https://img.shields.io/badge/Englisch-Fließend_(C2)-007ec6?style=for-the-badge)
-
-![Französisch](https://img.shields.io/badge/Französisch-Zertifikat_(B1)-007ec6?style=for-the-badge)
 # GitHub Stats:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Laurens-Hertzer&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=Laurens-Hertzer&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Laurens-Hertzer&langs_count=5&hide_values=true&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Laurens-Hertzer&langs_count=5&hide_values=true&theme=github_dark)
