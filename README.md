@@ -1,6 +1,6 @@
 # Herzlich Willkommen auf meinem Github
 
-**Ich heisse Laurens und ich mag die Informatik. Ich gehe in die IMS und erlerne dort den Beruf des Informatikers EFZ mit zusätzlich der Berufsmaturität Wirtschaft und Recht. Ich lebe in der Nähe von Zürich. Meine Interessen der Informatik sind recht stark verstreut, ich finde Websiten, wie auch Low-Level Programmiersprachen, wie auch Container und hardwarenähere Technologien sehr cool. Da ich erst seit ca. 2 Jahren mit der Informatik begonnen habe, bin ich noch leider kein "Master" in irgendeinem Bereich.**
+**Ich heisse Laurens und ich mag die Informatik. Ich gehe in die IMS und erlerne dort den Beruf des Informatikers EFZ mit zusätzlich der Berufsmaturität Wirtschaft und Recht. Ich lebe in der Nähe von Zürich. Meine Interessen im Bereich der Informatik sind recht stark verstreut, ich finde Websiten, wie auch Low-Level Programmiersprachen, Container und hardwarenähere Technologien sehr cool. Da ich erst seit ca. 2 Jahren mit der Informatik begonnen habe, bin ich noch auf dem Weg ein "Master" in einem Bereich zu werden.**
 
 ### Wichtig zu Github: 
 Profilbeschreibungen und meine Portfoliowebsite sind auf Deutsch, Repositories und Commits jedoch auf Englisch.
