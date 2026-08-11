@@ -61,55 +61,222 @@
 
 ## Frontend
 
-| Technologie | Beschreibung | Projekt | Quellen/Erwähnungen | Status | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **HTML+JS+CSS** | Dies sind die grundlegenden Sprachen, die für Websites verwendet werden. | Portfolio-Website | Keine | 🟢 Fertig | https://github.com/Laurens-Hertzer/Portfolio |
-| **Phaser** | Dies ist ein JavaScript-Game-Framework | Das Framework erlernen, ein Spiel darin programmieren und in meine Portfolio-Website integrieren. | Offizielle PhaserIO-Dokumentation | 🔴 Noch nicht begonnen | |
-| **Pretext** | Eine Text-Rendering-Engine für den Browser mit feineren typografischen Einstellungsmöglichkeiten, als CSS allein zulässt. | In meine Portfolio-Website implementieren oder einfach etwas erstellen, das interessant aussieht. | Keine | 🔴 Noch nicht begonnen | |
+<table>
+  <tr>
+    <th width="12%">Technologie</th>
+    <th width="22%">Beschreibung</th>
+    <th width="30%">Projekt</th>
+    <th width="14%">Quellen/Erwähnungen</th>
+    <th width="10%">Status</th>
+    <th width="12%">Repository</th>
+  </tr>
+  <tr>
+    <td><b>HTML+JS+CSS</b></td>
+    <td>Dies sind die grundlegenden Sprachen, die für Websites verwendet werden.</td>
+    <td>Portfolio-Website</td>
+    <td>Keine</td>
+    <td>🟢 Fertig</td>
+    <td>https://github.com/Laurens-Hertzer/Portfolio</td>
+  </tr>
+  <tr>
+    <td><b>Phaser</b></td>
+    <td>Dies ist ein JavaScript-Game-Framework</td>
+    <td>Das Framework erlernen, ein Spiel darin programmieren und in meine Portfolio-Website integrieren.</td>
+    <td>Offizielle PhaserIO-Dokumentation</td>
+    <td>🔴 Noch nicht begonnen</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Pretext</b></td>
+    <td>Eine Text-Rendering-Engine für den Browser mit feineren typografischen Einstellungsmöglichkeiten, als CSS allein zulässt.</td>
+    <td>In meine Portfolio-Website implementieren oder einfach etwas erstellen, das interessant aussieht.</td>
+    <td>Keine</td>
+    <td>🔴 Noch nicht begonnen</td>
+    <td></td>
+  </tr>
+</table>
 
 ## Backend
 
-| Technologie | Beschreibung | Projekt | Quellen/Erwähnungen | Status | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Rust** | Dies ist eine Backend-Sprache ohne die Möglichkeit von Speicherlecks. | Ich möchte Rust lernen und eine CLI-Anwendung erstellen, die das Überwachen und Konfigurieren von Servern (und auch persönlichen Geräten wie Laptops) ermöglicht.| https://learn.letsgetrusty.com/ | 🟢 Im Gange | https://github.com/Laurens-Hertzer/System_Overview |
-| Noch nicht definiert | --- | Ein Tool, in das man seine Daten einfügen kann, wo diese für die Eingabe bereinigt werden (keine API-Schlüssel, Daten, Namen usw.) | Keine | 🔴 Noch nicht begonnen | |
+<table>
+  <tr>
+    <th width="12%">Technologie</th>
+    <th width="22%">Beschreibung</th>
+    <th width="30%">Projekt</th>
+    <th width="14%">Quellen/Erwähnungen</th>
+    <th width="10%">Status</th>
+    <th width="12%">Repository</th>
+  </tr>
+  <tr>
+    <td><b>Rust</b></td>
+    <td>Dies ist eine Backend-Sprache ohne die Möglichkeit von Speicherlecks.</td>
+    <td>Ich möchte Rust lernen und eine CLI-Anwendung erstellen, die das Überwachen und Konfigurieren von Servern (und auch persönlichen Geräten wie Laptops) ermöglicht.</td>
+    <td>https://learn.letsgetrusty.com/</td>
+    <td>🟢 Im Gange</td>
+    <td>https://github.com/Laurens-Hertzer/System_Overview</td>
+  </tr>
+  <tr>
+    <td>Noch nicht definiert</td>
+    <td>---</td>
+    <td>Ein Tool, in das man seine Daten einfügen kann, wo diese für die Eingabe bereinigt werden (keine API-Schlüssel, Daten, Namen usw.)</td>
+    <td>Keine</td>
+    <td>🔴 Noch nicht begonnen</td>
+    <td></td>
+  </tr>
+</table>
 
 ## Server / Selbst gehostet
 
-| Technologie | Beschreibung | Projekt | Quellen/Erwähnungen | Status | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Terminal-Website** | Eine Website, auf die man über SSH im Terminal statt über einen Browser zugreift. | Über das Terminal eine Verbindung herstellen und dort Inhalte durchsuchen | https://www.instagram.com/morilliu/ | 🔴 Noch nicht begonnen | |
-| **Pi-hole** | DNS-basierter Werbeblocker, der netzwerkweit läuft | Werbung und Tracking für das gesamte Heimnetzwerk auf dem Server blockieren | Keine | 🔴 Noch nicht begonnen | |
-| **Vaultwarden** | Ein Bitwarden-kompatibler Passwortmanager, den du selbst hostest | Ersetze Googles Passwortmanager durch eine selbst gehostete Lösung auf dem Server | Keine | 🔴 Noch nicht begonnen | |
-| **Chat-App** | Einfache, selbst gehostete Chat-Anwendung | Eine einfache Chat-App für Kollegen auf dem Heimserver erstellen und hosten | Keine | 🔴 Noch nicht begonnen | |
-| **Stromverbrauch-Monitoring** | System zur Überwachung des Stromverbrauchs | Den Stromverbrauch des Servers überwachen | Keine | 🔴 Noch nicht begonnen | |
-| **Domain (Infomaniak)** | Eine Domain registrieren und eine Subdomain-Struktur einrichten | Eine Domain bei Infomaniak mit einer Subdomain-Struktur wie `portfolio.domain.xy`, `chat.domain.xy` usw. registrieren | Keine | 🟢 Fertig, die Domain heisst lahdev.ch | |
+<table>
+  <tr>
+    <th width="12%">Technologie</th>
+    <th width="22%">Beschreibung</th>
+    <th width="30%">Projekt</th>
+    <th width="14%">Quellen/Erwähnungen</th>
+    <th width="10%">Status</th>
+    <th width="12%">Repository</th>
+  </tr>
+  <tr>
+    <td><b>Terminal-Website</b></td>
+    <td>Eine Website, auf die man über SSH im Terminal statt über einen Browser zugreift.</td>
+    <td>Über das Terminal eine Verbindung herstellen und dort Inhalte durchsuchen</td>
+    <td>https://www.instagram.com/morilliu/</td>
+    <td>🔴 Noch nicht begonnen</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Pi-hole</b></td>
+    <td>DNS-basierter Werbeblocker, der netzwerkweit läuft</td>
+    <td>Werbung und Tracking für das gesamte Heimnetzwerk auf dem Server blockieren</td>
+    <td>Keine</td>
+    <td>🔴 Noch nicht begonnen</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Vaultwarden</b></td>
+    <td>Ein Bitwarden-kompatibler Passwortmanager, den du selbst hostest</td>
+    <td>Ersetze Googles Passwortmanager durch eine selbst gehostete Lösung auf dem Server</td>
+    <td>Keine</td>
+    <td>🔴 Noch nicht begonnen</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Chat-App</b></td>
+    <td>Einfache, selbst gehostete Chat-Anwendung</td>
+    <td>Eine einfache Chat-App für Kollegen auf dem Heimserver erstellen und hosten</td>
+    <td>Keine</td>
+    <td>🔴 Noch nicht begonnen</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Stromverbrauch-Monitoring</b></td>
+    <td>System zur Überwachung des Stromverbrauchs</td>
+    <td>Den Stromverbrauch des Servers überwachen</td>
+    <td>Keine</td>
+    <td>🔴 Noch nicht begonnen</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Domain (Infomaniak)</b></td>
+    <td>Eine Domain registrieren und eine Subdomain-Struktur einrichten</td>
+    <td>Eine Domain bei Infomaniak mit einer Subdomain-Struktur wie <code>portfolio.domain.xy</code>, <code>chat.domain.xy</code> usw. registrieren</td>
+    <td>Keine</td>
+    <td>🟢 Fertig, die Domain heisst lahdev.ch</td>
+    <td></td>
+  </tr>
+</table>
 
 ## Projekte
 
-| Technologie | Beschreibung | Projekt | Quellen/Erwähnungen | Status | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Go (Spiel)** | Go ist ein seit sehr langer Zeit existierendes, strategisches Brettspiel aus China, das auf einem Gitterfeld mit schwarzen und weißen Steinen gespielt wird. | Online-Go: eine Full-Stack-Spiel-Website (Node.js + Express-Backend, HTML/CSS/JS-Frontend), die zusammen mit dem Portfolio auf dem Server gehostet wird | Keine | 🟢 Es ist deployed und funktioniert, aber es hat noch ein paar fehlende Funktionen. | https://github.com/Laurens-Hertzer/Online_Go |
+<table>
+  <tr>
+    <th width="12%">Technologie</th>
+    <th width="22%">Beschreibung</th>
+    <th width="30%">Projekt</th>
+    <th width="14%">Quellen/Erwähnungen</th>
+    <th width="10%">Status</th>
+    <th width="12%">Repository</th>
+  </tr>
+  <tr>
+    <td><b>Go (Spiel)</b></td>
+    <td>Go ist ein seit sehr langer Zeit existierendes, strategisches Brettspiel aus China, das auf einem Gitterfeld mit schwarzen und weißen Steinen gespielt wird.</td>
+    <td>Online-Go: eine Full-Stack-Spiel-Website (Node.js + Express-Backend, HTML/CSS/JS-Frontend), die zusammen mit dem Portfolio auf dem Server gehostet wird</td>
+    <td>Keine</td>
+    <td>🟢 Es ist deployed und funktioniert, aber es hat noch ein paar fehlende Funktionen.</td>
+    <td>https://github.com/Laurens-Hertzer/Online_Go</td>
+  </tr>
+</table>
 
 ## Grafik
 
-| Technologie | Beschreibung | Projekt | Quellen/Erwähnungen | Status | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **OpenGL** | Grafik-API, die zum Rendern von Grafiken verwendet wird | Die API erlernen und ein schön gerendertes Objekt erstellen, eventuell ein „Live“-Hintergrundbild erstellen | Keine | 🔴 Noch nicht begonnen | |
+<table>
+  <tr>
+    <th width="12%">Technologie</th>
+    <th width="22%">Beschreibung</th>
+    <th width="30%">Projekt</th>
+    <th width="14%">Quellen/Erwähnungen</th>
+    <th width="10%">Status</th>
+    <th width="12%">Repository</th>
+  </tr>
+  <tr>
+    <td><b>OpenGL</b></td>
+    <td>Grafik-API, die zum Rendern von Grafiken verwendet wird</td>
+    <td>Die API erlernen und ein schön gerendertes Objekt erstellen, eventuell ein „Live“-Hintergrundbild erstellen</td>
+    <td>Keine</td>
+    <td>🔴 Noch nicht begonnen</td>
+    <td></td>
+  </tr>
+</table>
 
 ## Mobil
 
-| Technologie | Beschreibung | Projekt | Quellen/Erwähnungen | Status | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Swift** | Apples Programmiersprache für iOS, macOS und andere Apple-Plattformen | Die Sprache erlernen und einen Taschenrechner programmieren. | Keine | 🔴 Noch nicht begonnen | https://github.com/Laurens-Hertzer/Swift_Calculator |
+<table>
+  <tr>
+    <th width="12%">Technologie</th>
+    <th width="22%">Beschreibung</th>
+    <th width="30%">Projekt</th>
+    <th width="14%">Quellen/Erwähnungen</th>
+    <th width="10%">Status</th>
+    <th width="12%">Repository</th>
+  </tr>
+  <tr>
+    <td><b>Swift</b></td>
+    <td>Apples Programmiersprache für iOS, macOS und andere Apple-Plattformen</td>
+    <td>Die Sprache erlernen und einen Taschenrechner programmieren.</td>
+    <td>Keine</td>
+    <td>🔴 Noch nicht begonnen</td>
+    <td>https://github.com/Laurens-Hertzer/Swift_Calculator</td>
+  </tr>
+</table>
 
 ## System / Anpassung
 
-| Technologie | Beschreibung | Projekt | Quellen/Erwähnungen | Status | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **MacBook *Ricing*** | „Ricing“ ist ein Begriff, der in der Computerwelt (insbesondere Linuxwelt) verwendet wird. Es geht dabei mehr oder weniger darum, das Desktopsystem so schön wie möglich zu machen. | Das Ziel ist es, das Aussehen des Laptops zu verbessern und „Reibungsverluste“ im täglichen Arbeitsablauf zu reduzieren. | https://github.com/rubylaser/dotfiles | 🟡 Teilweise, wird bei Zeit durchgeführt, parallel zum Windows-Laptop-Ricing | |
-| **Windows-Laptop *Ricing*** | „Ricing“ ist ein Begriff, der in der Computerwelt (insbesondere Linuxwelt) verwendet wird. Es geht dabei mehr oder weniger darum, das Desktopsystem so schön wie möglich zu machen. | Das Ziel ist es, das Aussehen des Laptops zu verbessern und „Reibungsverluste“ im täglichen Arbeitsablauf zu reduzieren. | Keine | 🟡 Teilweise, je nach Zeit, parallel zum MacBook-Ricing | |
----
+<table>
+  <tr>
+    <th width="12%">Technologie</th>
+    <th width="22%">Beschreibung</th>
+    <th width="30%">Projekt</th>
+    <th width="14%">Quellen/Erwähnungen</th>
+    <th width="10%">Status</th>
+    <th width="12%">Repository</th>
+  </tr>
+  <tr>
+    <td><b>MacBook <i>Ricing</i></b></td>
+    <td>„Ricing“ ist ein Begriff, der in der Computerwelt (insbesondere Linuxwelt) verwendet wird. Es geht dabei mehr oder weniger darum, das Desktopsystem so schön wie möglich zu machen.</td>
+    <td>Das Ziel ist es, das Aussehen des Laptops zu verbessern und „Reibungsverluste“ im täglichen Arbeitsablauf zu reduzieren.</td>
+    <td>https://github.com/rubylaser/dotfiles</td>
+    <td>🟡 Teilweise, wird bei Zeit durchgeführt, parallel zum Windows-Laptop-Ricing</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Windows-Laptop <i>Ricing</i></b></td>
+    <td>„Ricing“ ist ein Begriff, der in der Computerwelt (insbesondere Linuxwelt) verwendet wird. Es geht dabei mehr oder weniger darum, das Desktopsystem so schön wie möglich zu machen.</td>
+    <td>Das Ziel ist es, das Aussehen des Laptops zu verbessern und „Reibungsverluste“ im täglichen Arbeitsablauf zu reduzieren.</td>
+    <td>Keine</td>
+    <td>🟡 Teilweise, je nach Zeit, parallel zum MacBook-Ricing</td>
+    <td></td>
+  </tr>
+</table>
 
 ### Wichtig zu Github: 
 Profilbeschreibungen und meine Portfoliowebsite sind auf Deutsch, Repositories und Commits jedoch auf Englisch.
