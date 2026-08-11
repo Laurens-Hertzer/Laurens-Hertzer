@@ -63,20 +63,18 @@
 
 <table>
   <tr>
-    <th width="12%">Technologie</th>
-    <th width="22%">Beschreibung</th>
-    <th width="30%">Projekt</th>
-    <th width="14%">Quellen/Erwähnungen</th>
-    <th width="10%">Status</th>
-    <th width="12%">Repository</th>
+    <th width="14%">Technologie</th>
+    <th width="26%">Beschreibung</th>
+    <th width="32%">Projekt</th>
+    <th width="16%">Quellen/Erwähnungen</th>
+    <th width="12%">Status</th>
   </tr>
   <tr>
     <td><b>HTML+JS+CSS</b></td>
     <td>Dies sind die grundlegenden Sprachen, die für Websites verwendet werden.</td>
-    <td>Portfolio-Website</td>
+    <td>Portfolio-Website (<a href="https://github.com/Laurens-Hertzer/Portfolio">Repository</a>)</td>
     <td>Keine</td>
     <td>🟢 Fertig</td>
-    <td>https://github.com/Laurens-Hertzer/Portfolio</td>
   </tr>
   <tr>
     <td><b>Phaser</b></td>
@@ -84,7 +82,6 @@
     <td>Das Framework erlernen, ein Spiel darin programmieren und in meine Portfolio-Website integrieren.</td>
     <td>Offizielle PhaserIO-Dokumentation</td>
     <td>🔴 Noch nicht begonnen</td>
-    <td></td>
   </tr>
   <tr>
     <td><b>Pretext</b></td>
@@ -92,7 +89,6 @@
     <td>In meine Portfolio-Website implementieren oder einfach etwas erstellen, das interessant aussieht.</td>
     <td>Keine</td>
     <td>🔴 Noch nicht begonnen</td>
-    <td></td>
   </tr>
 </table>
 
@@ -100,20 +96,18 @@
 
 <table>
   <tr>
-    <th width="12%">Technologie</th>
-    <th width="22%">Beschreibung</th>
-    <th width="30%">Projekt</th>
-    <th width="14%">Quellen/Erwähnungen</th>
-    <th width="10%">Status</th>
-    <th width="12%">Repository</th>
+    <th width="14%">Technologie</th>
+    <th width="26%">Beschreibung</th>
+    <th width="32%">Projekt</th>
+    <th width="16%">Quellen/Erwähnungen</th>
+    <th width="12%">Status</th>
   </tr>
   <tr>
     <td><b>Rust</b></td>
     <td>Dies ist eine Backend-Sprache ohne die Möglichkeit von Speicherlecks.</td>
-    <td>Ich möchte Rust lernen und eine CLI-Anwendung erstellen, die das Überwachen und Konfigurieren von Servern (und auch persönlichen Geräten wie Laptops) ermöglicht.</td>
+    <td>Ich möchte Rust lernen und eine CLI-Anwendung erstellen, die das Überwachen und Konfigurieren von Servern (und auch persönlichen Geräten wie Laptops) ermöglicht. (<a href="https://github.com/Laurens-Hertzer/System_Overview">Repository</a>)</td>
     <td>https://learn.letsgetrusty.com/</td>
     <td>🟢 Im Gange</td>
-    <td>https://github.com/Laurens-Hertzer/System_Overview</td>
   </tr>
   <tr>
     <td>Noch nicht definiert</td>
@@ -121,7 +115,6 @@
     <td>Ein Tool, in das man seine Daten einfügen kann, wo diese für die Eingabe bereinigt werden (keine API-Schlüssel, Daten, Namen usw.)</td>
     <td>Keine</td>
     <td>🔴 Noch nicht begonnen</td>
-    <td></td>
   </tr>
 </table>
 
@@ -129,12 +122,11 @@
 
 <table>
   <tr>
-    <th width="12%">Technologie</th>
-    <th width="22%">Beschreibung</th>
-    <th width="30%">Projekt</th>
-    <th width="14%">Quellen/Erwähnungen</th>
-    <th width="10%">Status</th>
-    <th width="12%">Repository</th>
+    <th width="14%">Technologie</th>
+    <th width="26%">Beschreibung</th>
+    <th width="32%">Projekt</th>
+    <th width="16%">Quellen/Erwähnungen</th>
+    <th width="12%">Status</th>
   </tr>
   <tr>
     <td><b>Terminal-Website</b></td>
@@ -142,7 +134,6 @@
     <td>Über das Terminal eine Verbindung herstellen und dort Inhalte durchsuchen</td>
     <td>https://www.instagram.com/morilliu/</td>
     <td>🔴 Noch nicht begonnen</td>
-    <td></td>
   </tr>
   <tr>
     <td><b>Pi-hole</b></td>
@@ -150,7 +141,6 @@
     <td>Werbung und Tracking für das gesamte Heimnetzwerk auf dem Server blockieren</td>
     <td>Keine</td>
     <td>🔴 Noch nicht begonnen</td>
-    <td></td>
   </tr>
   <tr>
     <td><b>Vaultwarden</b></td>
@@ -158,7 +148,6 @@
     <td>Ersetze Googles Passwortmanager durch eine selbst gehostete Lösung auf dem Server</td>
     <td>Keine</td>
     <td>🔴 Noch nicht begonnen</td>
-    <td></td>
   </tr>
   <tr>
     <td><b>Chat-App</b></td>
@@ -166,7 +155,6 @@
     <td>Eine einfache Chat-App für Kollegen auf dem Heimserver erstellen und hosten</td>
     <td>Keine</td>
     <td>🔴 Noch nicht begonnen</td>
-    <td></td>
   </tr>
   <tr>
     <td><b>Stromverbrauch-Monitoring</b></td>
@@ -174,7 +162,6 @@
     <td>Den Stromverbrauch des Servers überwachen</td>
     <td>Keine</td>
     <td>🔴 Noch nicht begonnen</td>
-    <td></td>
   </tr>
   <tr>
     <td><b>Domain (Infomaniak)</b></td>
@@ -182,7 +169,6 @@
     <td>Eine Domain bei Infomaniak mit einer Subdomain-Struktur wie <code>portfolio.domain.xy</code>, <code>chat.domain.xy</code> usw. registrieren</td>
     <td>Keine</td>
     <td>🟢 Fertig, die Domain heisst lahdev.ch</td>
-    <td></td>
   </tr>
 </table>
 
@@ -190,20 +176,18 @@
 
 <table>
   <tr>
-    <th width="12%">Technologie</th>
-    <th width="22%">Beschreibung</th>
-    <th width="30%">Projekt</th>
-    <th width="14%">Quellen/Erwähnungen</th>
-    <th width="10%">Status</th>
-    <th width="12%">Repository</th>
+    <th width="14%">Technologie</th>
+    <th width="26%">Beschreibung</th>
+    <th width="32%">Projekt</th>
+    <th width="16%">Quellen/Erwähnungen</th>
+    <th width="12%">Status</th>
   </tr>
   <tr>
     <td><b>Go (Spiel)</b></td>
     <td>Go ist ein seit sehr langer Zeit existierendes, strategisches Brettspiel aus China, das auf einem Gitterfeld mit schwarzen und weißen Steinen gespielt wird.</td>
-    <td>Online-Go: eine Full-Stack-Spiel-Website (Node.js + Express-Backend, HTML/CSS/JS-Frontend), die zusammen mit dem Portfolio auf dem Server gehostet wird</td>
+    <td>Online-Go: eine Full-Stack-Spiel-Website (Node.js + Express-Backend, HTML/CSS/JS-Frontend), die zusammen mit dem Portfolio auf dem Server gehostet wird (<a href="https://github.com/Laurens-Hertzer/Online_Go">Repository</a>)</td>
     <td>Keine</td>
     <td>🟢 Es ist deployed und funktioniert, aber es hat noch ein paar fehlende Funktionen.</td>
-    <td>https://github.com/Laurens-Hertzer/Online_Go</td>
   </tr>
 </table>
 
@@ -211,12 +195,11 @@
 
 <table>
   <tr>
-    <th width="12%">Technologie</th>
-    <th width="22%">Beschreibung</th>
-    <th width="30%">Projekt</th>
-    <th width="14%">Quellen/Erwähnungen</th>
-    <th width="10%">Status</th>
-    <th width="12%">Repository</th>
+    <th width="14%">Technologie</th>
+    <th width="26%">Beschreibung</th>
+    <th width="32%">Projekt</th>
+    <th width="16%">Quellen/Erwähnungen</th>
+    <th width="12%">Status</th>
   </tr>
   <tr>
     <td><b>OpenGL</b></td>
@@ -224,7 +207,6 @@
     <td>Die API erlernen und ein schön gerendertes Objekt erstellen, eventuell ein „Live“-Hintergrundbild erstellen</td>
     <td>Keine</td>
     <td>🔴 Noch nicht begonnen</td>
-    <td></td>
   </tr>
 </table>
 
@@ -232,20 +214,18 @@
 
 <table>
   <tr>
-    <th width="12%">Technologie</th>
-    <th width="22%">Beschreibung</th>
-    <th width="30%">Projekt</th>
-    <th width="14%">Quellen/Erwähnungen</th>
-    <th width="10%">Status</th>
-    <th width="12%">Repository</th>
+    <th width="14%">Technologie</th>
+    <th width="26%">Beschreibung</th>
+    <th width="32%">Projekt</th>
+    <th width="16%">Quellen/Erwähnungen</th>
+    <th width="12%">Status</th>
   </tr>
   <tr>
     <td><b>Swift</b></td>
     <td>Apples Programmiersprache für iOS, macOS und andere Apple-Plattformen</td>
-    <td>Die Sprache erlernen und einen Taschenrechner programmieren.</td>
+    <td>Die Sprache erlernen und einen Taschenrechner programmieren. (<a href="https://github.com/Laurens-Hertzer/Swift_Calculator">Repository</a>)</td>
     <td>Keine</td>
     <td>🔴 Noch nicht begonnen</td>
-    <td>https://github.com/Laurens-Hertzer/Swift_Calculator</td>
   </tr>
 </table>
 
@@ -253,12 +233,11 @@
 
 <table>
   <tr>
-    <th width="12%">Technologie</th>
-    <th width="22%">Beschreibung</th>
-    <th width="30%">Projekt</th>
-    <th width="14%">Quellen/Erwähnungen</th>
-    <th width="10%">Status</th>
-    <th width="12%">Repository</th>
+    <th width="14%">Technologie</th>
+    <th width="26%">Beschreibung</th>
+    <th width="32%">Projekt</th>
+    <th width="16%">Quellen/Erwähnungen</th>
+    <th width="12%">Status</th>
   </tr>
   <tr>
     <td><b>MacBook <i>Ricing</i></b></td>
@@ -266,7 +245,6 @@
     <td>Das Ziel ist es, das Aussehen des Laptops zu verbessern und „Reibungsverluste“ im täglichen Arbeitsablauf zu reduzieren.</td>
     <td>https://github.com/rubylaser/dotfiles</td>
     <td>🟡 Teilweise, wird bei Zeit durchgeführt, parallel zum Windows-Laptop-Ricing</td>
-    <td></td>
   </tr>
   <tr>
     <td><b>Windows-Laptop <i>Ricing</i></b></td>
@@ -274,7 +252,6 @@
     <td>Das Ziel ist es, das Aussehen des Laptops zu verbessern und „Reibungsverluste“ im täglichen Arbeitsablauf zu reduzieren.</td>
     <td>Keine</td>
     <td>🟡 Teilweise, je nach Zeit, parallel zum MacBook-Ricing</td>
-    <td></td>
   </tr>
 </table>
 
