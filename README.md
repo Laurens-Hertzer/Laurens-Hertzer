@@ -21,7 +21,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%2311557c.svg?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/networkx-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Shiny](https://img.shields.io/badge/shiny-%23blue.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Quarto](https://img.shields.io/badge/quarto-%2375AADB.svg?style=for-the-badge&logo=quarto&logoColor=white)
@@ -31,17 +30,11 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Cloud, DevOps & Plattformen
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![APPUiO](https://img.shields.io/badge/APPUiO-%23000000.svg?style=for-the-badge&logo=kubernetes&logoColor=%23FF6600)
-
-### Tools & Design
+### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/draw.io-%23F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![APPUiO](https://img.shields.io/badge/APPUiO-%23000000.svg?style=for-the-badge&logo=kubernetes&logoColor=%23FF6600)
 
 ### IDEs & Editoren
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=vsc&logoColor=white)
