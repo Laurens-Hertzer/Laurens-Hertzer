@@ -2,9 +2,6 @@
 
 **Ich heisse Laurens und ich mag die Informatik. Ich gehe in die IMS und erlerne dort den Beruf des Informatikers EFZ mit zusätzlich der Berufsmaturität Wirtschaft und Recht. Ich lebe in der Nähe von Zürich. Meine Interessen im Bereich der Informatik sind recht stark verstreut, ich finde Websiten, wie auch Low-Level Programmiersprachen, Container und hardwarenähere Technologien sehr cool. Da ich erst seit ca. 2 Jahren mit der Informatik begonnen habe, bin ich noch auf dem Weg ein "Master" in einem Bereich zu werden.**
 
-### Wichtig zu Github: 
-Profilbeschreibungen und meine Portfoliowebsite sind auf Deutsch, Repositories und Commits jedoch auf Englisch.
-
 # Meine Kenntnisse und womit ich schon gearbeitet habe 
 
 ### Sprachen & Markup
@@ -113,3 +110,6 @@ Profilbeschreibungen und meine Portfoliowebsite sind auf Deutsch, Repositories u
 | **MacBook *Ricing*** | „Ricing“ ist ein Begriff, der in der Computerwelt (insbesondere Linuxwelt) verwendet wird. Es geht dabei mehr oder weniger darum, das Desktopsystem so schön wie möglich zu machen. | Das Ziel ist es, das Aussehen des Laptops zu verbessern und „Reibungsverluste“ im täglichen Arbeitsablauf zu reduzieren. | https://github.com/rubylaser/dotfiles | 🟡 Teilweise, wird bei Zeit durchgeführt, parallel zum Windows-Laptop-Ricing | |
 | **Windows-Laptop *Ricing*** | „Ricing“ ist ein Begriff, der in der Computerwelt (insbesondere Linuxwelt) verwendet wird. Es geht dabei mehr oder weniger darum, das Desktopsystem so schön wie möglich zu machen. | Das Ziel ist es, das Aussehen des Laptops zu verbessern und „Reibungsverluste“ im täglichen Arbeitsablauf zu reduzieren. | Keine | 🟡 Teilweise, je nach Zeit, parallel zum MacBook-Ricing | |
 ---
+
+### Wichtig zu Github: 
+Profilbeschreibungen und meine Portfoliowebsite sind auf Deutsch, Repositories und Commits jedoch auf Englisch.
