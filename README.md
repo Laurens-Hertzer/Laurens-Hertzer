@@ -51,30 +51,26 @@
 
 <table>
   <tr>
-    <th width="14%">Technologie</th>
-    <th width="26%">Beschreibung</th>
-    <th width="32%">Projekt</th>
-    <th width="16%">Quellen/Erwähnungen</th>
+    <th width="20%">Fokus / Tool</th>
+    <th width="50%">Ziel & Umsetzung</th>
+    <th width="18%">Ressourcen</th>
     <th width="12%">Status</th>
   </tr>
   <tr>
-    <td><b>HTML+JS+CSS</b></td>
-    <td>Dies sind die grundlegenden Sprachen, die für Websites verwendet werden.</td>
-    <td>Portfolio-Website (<a href="https://github.com/Laurens-Hertzer/Portfolio">Repository</a>)</td>
+    <td><b>HTML / CSS / JS</b></td>
+    <td><b>Portfolio-Website:</b> Grundlegende Web-Sprachen erlernen und eigene Website erstellen. (<a href="https://github.com/Laurens-Hertzer/Portfolio">Repository</a>)</td>
     <td>Keine</td>
     <td>🟢 Fertig</td>
   </tr>
   <tr>
     <td><b>Phaser</b></td>
-    <td>Dies ist ein JavaScript-Game-Framework</td>
-    <td>Das Framework erlernen, ein Spiel darin programmieren und in meine Portfolio-Website integrieren.</td>
-    <td>Offizielle PhaserIO-Dokumentation</td>
+    <td>JavaScript-Game-Framework erlernen, ein Spiel darin programmieren und in die Portfolio-Website integrieren.</td>
+    <td>Offizielle PhaserIO-Doku</td>
     <td>🔴 Noch nicht begonnen</td>
   </tr>
   <tr>
     <td><b>Pretext</b></td>
-    <td>Eine Text-Rendering-Engine für den Browser mit feineren typografischen Einstellungsmöglichkeiten, als CSS allein zulässt.</td>
-    <td>In meine Portfolio-Website implementieren oder einfach etwas erstellen, das interessant aussieht.</td>
+    <td>Browser-Text-Rendering-Engine für "flüssigen" Text auf einer Website. Im Portfolio oder Miniprojekt testen und implementieren.</td>
     <td>Keine</td>
     <td>🔴 Noch nicht begonnen</td>
   </tr>
@@ -84,23 +80,20 @@
 
 <table>
   <tr>
-    <th width="14%">Technologie</th>
-    <th width="26%">Beschreibung</th>
-    <th width="32%">Projekt</th>
-    <th width="16%">Quellen/Erwähnungen</th>
+    <th width="20%">Fokus / Tool</th>
+    <th width="50%">Ziel & Umsetzung</th>
+    <th width="18%">Ressourcen</th>
     <th width="12%">Status</th>
   </tr>
   <tr>
     <td><b>Rust</b></td>
-    <td>Dies ist eine Backend-Sprache ohne die Möglichkeit von Speicherlecks.</td>
-    <td>Ich möchte Rust lernen und eine CLI-Anwendung erstellen, die das Überwachen und Konfigurieren von Servern (und auch persönlichen Geräten wie Laptops) ermöglicht. (<a href="https://github.com/Laurens-Hertzer/System_Overview">Repository</a>)</td>
-    <td>https://learn.letsgetrusty.com/</td>
+    <td><b>System Overview:</b> CLI-Anwendung zur Überwachung und Konfiguration von Servern und Laptops erstellen. (<a href="https://github.com/Laurens-Hertzer/System_Overview">Repository</a>)</td>
+    <td><a href="https://learn.letsgetrusty.com/">LetsGetRusty</a></td>
     <td>🟢 Im Gange</td>
   </tr>
   <tr>
-    <td>Noch nicht definiert</td>
-    <td>---</td>
-    <td>Ein Tool, in das man seine Daten einfügen kann, wo diese für die Eingabe bereinigt werden (keine API-Schlüssel, Daten, Namen usw.)</td>
+    <td><i>Noch nicht definiert</i></td>
+    <td>Tool zur Bereinigung sensibler Daten (Entfernung von API-Schlüsseln, Namen, persönlichen Daten vor der Eingabe).</td>
     <td>Keine</td>
     <td>🔴 Noch nicht begonnen</td>
   </tr>
@@ -110,51 +103,44 @@
 
 <table>
   <tr>
-    <th width="14%">Technologie</th>
-    <th width="26%">Beschreibung</th>
-    <th width="32%">Projekt</th>
-    <th width="16%">Quellen/Erwähnungen</th>
+    <th width="20%">Fokus / Tool</th>
+    <th width="50%">Ziel & Umsetzung</th>
+    <th width="18%">Ressourcen</th>
     <th width="12%">Status</th>
   </tr>
   <tr>
     <td><b>Terminal-Website</b></td>
-    <td>Eine Website, auf die man über SSH im Terminal statt über einen Browser zugreift.</td>
-    <td>Über das Terminal eine Verbindung herstellen und dort Inhalte durchsuchen</td>
-    <td>https://www.instagram.com/morilliu/</td>
+    <td>Website erstellen, auf die per SSH direkt über das Terminal zugegriffen wird, um Inhalte zu durchsuchen.</td>
+    <td><a href="https://www.instagram.com/morilliu/">morilliu (Instagram)</a></td>
     <td>🔴 Noch nicht begonnen</td>
   </tr>
   <tr>
     <td><b>Pi-hole</b></td>
-    <td>DNS-basierter Werbeblocker, der netzwerkweit läuft</td>
-    <td>Werbung und Tracking für das gesamte Heimnetzwerk auf dem Server blockieren</td>
+    <td>DNS-basierter Werbeblocker für netzweites Adblocking auf dem Heimserver einrichten.</td>
     <td>Keine</td>
     <td>🔴 Noch nicht begonnen</td>
   </tr>
   <tr>
     <td><b>Vaultwarden</b></td>
-    <td>Ein Bitwarden-kompatibler Passwortmanager, den du selbst hostest</td>
-    <td>Ersetze Googles Passwortmanager durch eine selbst gehostete Lösung auf dem Server</td>
+    <td>Bitwarden-kompatiblen Passwortmanager selbst hosten.</td>
     <td>Keine</td>
     <td>🔴 Noch nicht begonnen</td>
   </tr>
   <tr>
     <td><b>Chat-App</b></td>
-    <td>Einfache, selbst gehostete Chat-Anwendung</td>
-    <td>Eine einfache Chat-App für Kollegen auf dem Heimserver erstellen und hosten</td>
+    <td>Einfache Chat-Anwendung für Kollegen erstellen und auf dem Heimserver hosten.</td>
     <td>Keine</td>
     <td>🔴 Noch nicht begonnen</td>
   </tr>
   <tr>
     <td><b>Stromverbrauch-Monitoring</b></td>
-    <td>System zur Überwachung des Stromverbrauchs</td>
-    <td>Den Stromverbrauch des Servers überwachen</td>
+    <td>Monitoring-System zur Überwachung des Stromverbrauchs des Servers einrichten.</td>
     <td>Keine</td>
     <td>🔴 Noch nicht begonnen</td>
   </tr>
   <tr>
     <td><b>Domain (Infomaniak)</b></td>
-    <td>Eine Domain registrieren und eine Subdomain-Struktur einrichten</td>
-    <td>Eine Domain bei Infomaniak mit einer Subdomain-Struktur wie <code>portfolio.domain.xy</code>, <code>chat.domain.xy</code> usw. registrieren</td>
+    <td>Domain bei Infomaniak registrieren und Subdomain-Struktur (<code>portfolio.domain.xy</code>, <code>chat.domain.xy</code> etc.) einrichten.</td>
     <td>Keine</td>
     <td>🟢 Fertig, die Domain heisst lahdev.ch</td>
   </tr>
@@ -164,18 +150,22 @@
 
 <table>
   <tr>
-    <th width="14%">Technologie</th>
-    <th width="26%">Beschreibung</th>
-    <th width="32%">Projekt</th>
-    <th width="16%">Quellen/Erwähnungen</th>
+    <th width="20%">Fokus / Tool</th>
+    <th width="50%">Ziel & Umsetzung</th>
+    <th width="18%">Ressourcen</th>
     <th width="12%">Status</th>
   </tr>
   <tr>
-    <td><b>Go (Spiel)</b></td>
-    <td>Go ist ein seit sehr langer Zeit existierendes, strategisches Brettspiel aus China, das auf einem Gitterfeld mit schwarzen und weißen Steinen gespielt wird.</td>
-    <td>Online-Go: eine Full-Stack-Spiel-Website (Node.js + Express-Backend, HTML/CSS/JS-Frontend), die zusammen mit dem Portfolio auf dem Server gehostet wird (<a href="https://github.com/Laurens-Hertzer/Online_Go">Repository</a>)</td>
+    <td><b>Online Go</b></td>
+    <td>Full-Stack-Spiel-Website (Node.js/Express + HTML/CSS/JS) für das chinesische Brettspiel Go umsetzen und hosten. (<a href="https://github.com/Laurens-Hertzer/Online_Go">Repository</a>)</td>
     <td>Keine</td>
-    <td>🟢 Es ist deployed und funktioniert, aber es hat noch ein paar fehlende Funktionen.</td>
+    <td>🟢 Deployed (Features unvollständig)</td>
+  </tr>
+  <tr>
+    <td><b>Morning Checklist</b></td>
+    <td>Morgenroutine-System auf Android Tablet mit Wetter, Zugstatus und Aufgaben. Frontend: Java (Android Studio). Backend: Java (Spring Boot) + PostgreSQL. (<a href="https://github.com/Laurens-Hertzer/Checklist_Frontend">Frontend-Repo</a> | <a href="https://github.com/Laurens-Hertzer/Checklist_Backend">Backend-Repo</a>)</td>
+    <td>Keine</td>
+    <td>🟢 In Entwicklung (19.08.2026 – ~01.01.2027)</td>
   </tr>
 </table>
 
@@ -183,16 +173,14 @@
 
 <table>
   <tr>
-    <th width="14%">Technologie</th>
-    <th width="26%">Beschreibung</th>
-    <th width="32%">Projekt</th>
-    <th width="16%">Quellen/Erwähnungen</th>
+    <th width="20%">Fokus / Tool</th>
+    <th width="50%">Ziel & Umsetzung</th>
+    <th width="18%">Ressourcen</th>
     <th width="12%">Status</th>
   </tr>
   <tr>
     <td><b>OpenGL</b></td>
-    <td>Grafik-API, die zum Rendern von Grafiken verwendet wird</td>
-    <td>Die API erlernen und ein schön gerendertes Objekt erstellen, eventuell ein „Live“-Hintergrundbild erstellen</td>
+    <td>Grafik-API erlernen und ein gerendertes 3D-Objekt oder ein „Live“-Hintergrundbild erstellen.</td>
     <td>Keine</td>
     <td>🔴 Noch nicht begonnen</td>
   </tr>
@@ -202,16 +190,14 @@
 
 <table>
   <tr>
-    <th width="14%">Technologie</th>
-    <th width="26%">Beschreibung</th>
-    <th width="32%">Projekt</th>
-    <th width="16%">Quellen/Erwähnungen</th>
+    <th width="20%">Fokus / Tool</th>
+    <th width="50%">Ziel & Umsetzung</th>
+    <th width="18%">Ressourcen</th>
     <th width="12%">Status</th>
   </tr>
   <tr>
     <td><b>Swift</b></td>
-    <td>Apples Programmiersprache für iOS, macOS und andere Apple-Plattformen</td>
-    <td>Die Sprache erlernen und einen Taschenrechner programmieren. (<a href="https://github.com/Laurens-Hertzer/Swift_Calculator">Repository</a>)</td>
+    <td>Apples Sprache für iOS/macOS erlernen und eine Taschenrechner-App programmieren. (<a href="https://github.com/Laurens-Hertzer/Swift_Calculator">Repository</a>)</td>
     <td>Keine</td>
     <td>🔴 Noch nicht begonnen</td>
   </tr>
@@ -221,25 +207,22 @@
 
 <table>
   <tr>
-    <th width="14%">Technologie</th>
-    <th width="26%">Beschreibung</th>
-    <th width="32%">Projekt</th>
-    <th width="16%">Quellen/Erwähnungen</th>
+    <th width="20%">Fokus / Tool</th>
+    <th width="50%">Ziel & Umsetzung</th>
+    <th width="18%">Ressourcen</th>
     <th width="12%">Status</th>
   </tr>
   <tr>
-    <td><b>MacBook <i>Ricing</i></b></td>
-    <td>„Ricing“ ist ein Begriff, der in der Computerwelt (insbesondere Linuxwelt) verwendet wird. Es geht dabei mehr oder weniger darum, das Desktopsystem so schön wie möglich zu machen.</td>
-    <td>Das Ziel ist es, das Aussehen des Laptops zu verbessern und „Reibungsverluste“ im täglichen Arbeitsablauf zu reduzieren.</td>
-    <td>https://github.com/rubylaser/dotfiles</td>
-    <td>🟡 Teilweise, wird bei Zeit durchgeführt, parallel zum Windows-Laptop-Ricing</td>
+    <td><b>MacBook Ricing</b></td>
+    <td>System-Optik anpassen und Workflow-Reibungsverluste reduzieren (parallel zu Windows).</td>
+    <td><a href="https://github.com/rubylaser/dotfiles">rubylaser/dotfiles</a></td>
+    <td>🟡 Teilweise</td>
   </tr>
   <tr>
-    <td><b>Windows-Laptop <i>Ricing</i></b></td>
-    <td>„Ricing“ ist ein Begriff, der in der Computerwelt (insbesondere Linuxwelt) verwendet wird. Es geht dabei mehr oder weniger darum, das Desktopsystem so schön wie möglich zu machen.</td>
-    <td>Das Ziel ist es, das Aussehen des Laptops zu verbessern und „Reibungsverluste“ im täglichen Arbeitsablauf zu reduzieren.</td>
+    <td><b>Windows-Laptop Ricing</b></td>
+    <td>Desktopsystem optisch verschönern und Arbeitsabläufe optimieren (parallel zu macOS).</td>
     <td>Keine</td>
-    <td>🟡 Teilweise, je nach Zeit, parallel zum MacBook-Ricing</td>
+    <td>🟡 Teilweise</td>
   </tr>
 </table>
 
